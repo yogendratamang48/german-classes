@@ -6,3 +6,5 @@ Repository dedicated to my German classes.
 1. [2025-01-27: Präteratum](B1.1/20250127.md)
 1. [2025-02-05 to 2025-02-17: Der Bestimmte Artikel, Genetiv ](B1.1/20250217.md)
 1. [2025-02-19: Preposionen mit Gentiv](B1.1/20250219.md)
+1. [2025-03-03: Dafür oder dagegen](B1.1/20250219.md)
+1. [2025-03-05: Dafür oder dagegen + Adjektiv](B1.1/20250219.md)
