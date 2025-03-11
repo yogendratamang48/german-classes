@@ -8,3 +8,4 @@ Repository dedicated to my German classes.
 1. [2025-02-19: Preposionen mit Gentiv](B1.1/20250219.md)
 1. [2025-03-03: Dafür oder dagegen](B1.1/20250303.md)
 1. [2025-03-05: Dafür oder dagegen + Adjektiv](B1.1/20250305.md)
+1. [2025-03-10: Satzbau](B1.1/20250310.md)
