@@ -1,0 +1,76 @@
+hören:
+  zeit: 20 minuten
+  aufgaben:
+  - teil: teil 1
+    beschreibung: "6 Dialog. 6 Fragen"
+  - teil: teil 2
+    beschreibung: "4 Durchsagen. Richtig/Falsch Fragen"
+  - teil: teil 3
+    beschreibung: "5 Sprachenachrichten. 5 Fragen"
+
+
+sprechen:
+  zeit: 15 minuten
+  aufgaben:
+  - teil: teil 1
+    beschreibung: "Vorstellung"
+    hints: "Name, Alter, Land, Wohnort, Sprache, Beruf, Hobbys"
+  - teil: teil 2
+    beschreibung: "Informationen erfragen/geben"
+    hints: "2 fragen, 2 antworten pro Person. Zwei themen. z.B. Sport, Schule"
+    mehr:
+      - thema: "Sport"
+        karten:
+        - karte: Wochenende
+          fragen: Machen Sie am Wochenende oft Sport?
+          antworten: Ja, ich spiele jeden Samstag Fußball
+        - karte: Schwimmen
+          fragent: Können Sie gut schwimmen?
+          antworten: nein, ich kann nicht so gut schwimmen.
+        - karte: Lieblingssport
+          fragen: Haben Sie einen Lieblingssport?
+          antworten: Mein Lieblingssport ist Tennis.
+        - karte: Fahrrad
+          fragen: Fahren wir heute zusammen rad?
+          antworten: Ja, sehr gerne. Gute Idee!
+
+
+  - teil: teil 3
+    beschreibung: "Bitten und Aufforderungen"
+    hints: "Runde 1 - 2: Bitten und Aufforderungen. Runde 3: Fragen stellen"
+    mehr:
+      - kart: "Käse"
+        bitte: "Geben Sie mir bitte 200g von dem Käse dort?"
+        antworten: "Gerne. Hier.. bitteschön."
+      - karte: "Kaffee"
+        bitte: "Könnten Sie mir bitte einen Kaffee bringen?"
+        antworten: "Ja, kommt sofort."
+      - Karte: "Salz und Pfeffer"
+        bitte: "Kann ich bitte Salz und Pfefer haben?"
+        antworten: "Ja, natürlich. Hier.. bitteschön: Salz und Pfeffer."
+      - karte: "unterschreiben"
+        bitte: "Könnten Sie bitte hier unterschreiben?"
+        antworten: "Ok, kein Problem. Mache ich."
+    tips:
+      - "Keine Ahnung -- Never use this."
+      - "Wie bitte? Ich habe Sie nicht richtig verstanden."
+      - "oh, das wort kenne ich nicht. Was bedeutet das?"
+      - "..was bedeutet das?"
+          
+lesen:
+  zeit: 25 minuten
+  aufgaben:
+  - teil: teil 1
+    beschreibung: "zwei texte. 5 richtige/falsche fragen"
+  - teil: teil 2
+    beschreibung: "5 Multiple-Choice Fragen. Situation: du musst entscheiden"
+  - teil: teil 3
+    beschreibung: "5 Richtig/Falsch Fragen"
+
+schreiben:
+  zeit: 20 minuten
+  aufgaben:
+  - teil: teil 1
+    beschreibung: "Formular ausfüllen"
+  - teil: teil 2
+    beschreibung: "E-Mail schreiben"
